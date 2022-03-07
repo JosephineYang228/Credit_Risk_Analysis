@@ -39,7 +39,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ![EEAC](https://github.com/JosephineYang228/Credit_Risk_Analysis/blob/8f80037601cb4b0419e08cc9d67c86f56bcc3757/image/EEAC.png)  
 
 ## Summary
-Sensitivity is an important index but there are situations in which precision is more important than sensitivity. In this case, I use 6 different models to train and predit the dataset and ranking the models in descending order according to the balance accuracy score as follows:  
+Sensitivity is an important index but there are situations in which precision is more important than sensitivity. In this case, I use 6 different models to train and predict the dataset and ranking the models in descending order according to the balance accuracy score as follows:  
  - Easy Ensemble AdaBoost Classifier. The balanced accuracy test it 91.8%.  
  - Balanced Random Forest Classifier. The balanced accuracy test it 79.1%.
  - Naive Random Oversampling. The balanced accuracy test it 65.0%.
